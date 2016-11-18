@@ -1,0 +1,82 @@
+---
+branches: master
+projects:
+  BroomArrow:
+    path: BroomArrow/
+    model: default
+  BulkCommands:
+    path: BulkCommands/
+    model: default
+  ChatChannels:
+    path: ChatChannels/
+    model: default
+  ChatLineBreaker:
+    path: ChatLineBreaker/
+    model: default
+  CommandSelectors:
+    path: CommandSelectors/
+    model: default
+  ConsolePush:
+    path: ConsolePush/
+    model: default
+  CustomAreas:
+    path: CustomAreas/
+    model: default
+  DeFactoGui:
+    path: DeFactoGui/
+    model: default
+  DynamicSignTechnology:
+    path: DynamicSignTechnology/
+    model: default
+  IPLogger:
+    path: IPLogger/
+    model: default
+  IRCBridge:
+    path: IRCBridge/
+    model: default
+  InfoEssentials:
+    path: InfoEssentials/
+    model: default
+  LagFixer:
+    path: LagFixer/
+    model: default
+  MemoryFullRestarter:
+    path: MemoryFullRestarter/
+    model: default
+  Mist:
+    path: Mist/
+    model: default
+  NailedKeyboard:
+    path: NailedKeyboard/
+    model: default
+  NameCorrector:
+    path: NameCorrector/
+    model: default
+  NumericRanks:
+    path: NumericRanks/
+    model: default
+  PastebinPoster:
+    path: PastebinPoster/
+    model: default
+  RARFix:
+    path: RARFix/
+    model: default
+  RemoteChat:
+    path: RemoteChat/
+    model: default
+  SimpleMacros:
+    path: SimpleMacros/
+    model: default
+  Spacefiller:
+    path: Spacefiller/
+    model: default
+  ThirdPersonDiscourager:
+    path: ThirdPersonDiscourager/
+    model: default
+  VotifierPE:
+    path: VotifierPE/
+    model: default
+  WorldEditArt:
+    path: WorldEditArt/
+    model: default
+...
